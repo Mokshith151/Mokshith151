@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi, I'm Mokshith👋<br>I'm passionate about technology and software development. I enjoy working with [your skills — e.g., Python, Java, Web Development] and building projects that solve real-world problems.<br><br>🌱 Currently learning: Java, DevOps<br>💻 Interested in: Development<br>🚀 Always exploring new ideas and improving my skills.
+Hi, I'm Mokshith 👋
+
+I'm passionate about technology and software development. I enjoy building projects that solve real-world problems and continuously enhance my technical skills.
+
+🌱 Currently learning: Java, DevOps
+💻 Interested in: Software Development & Backend Technologies
+🚀 Always exploring new ideas and improving my problem-solving skills
+🔧 Tech Stack: Java, SQL, MySQL
+📌 Focused on building scalable and efficient applications
+
+Let's connect and collaborate on innovative projects!
+
 
 
 ## 🌐 Socials:
